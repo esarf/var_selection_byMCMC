@@ -1,2 +1,2 @@
 # MC
-Sélection de variables en régression inéaire basée sur des méthodes de type Monte-Carlo.
+Sélection de variables en régression linéaire basée sur des méthodes de type Monte-Carlo.
